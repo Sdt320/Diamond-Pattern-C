@@ -20,3 +20,12 @@ The conditions inside the inner loop check if the current position should have a
      - `i - j == n` (bottom-left to top-right diagonal)
      - `i + j == k + n - 1` (bottom-right to top-left diagonal)
 
+        *         
+      *   *       
+    *       *     
+  *           *   
+*               * 
+  *           *   
+    *       *     
+      *   *       
+        *         
