@@ -3,7 +3,7 @@
 int main()
 {
     int i, j, k, n;
-    k = 6; // Change this value to an odd number to see the difference
+    k = 10; // Change this value to an odd number to see the difference
     n = k / 2;
 
     for (i = 0; i < k; i++) {
