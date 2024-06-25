@@ -20,6 +20,10 @@ The conditions inside the inner loop check if the current position should have a
      - `i - j == n` (bottom-left to top-right diagonal)
      - `i + j == k + n - 1` (bottom-right to top-left diagonal)
 
+      Here's how the output will look with the provided C code for `k = 9`:
+
+### Output:
+```
         *         
       *   *       
     *       *     
@@ -29,3 +33,5 @@ The conditions inside the inner loop check if the current position should have a
     *       *     
       *   *       
         *         
+```
+
